@@ -14,4 +14,4 @@ Interested? Contact rkuster@utk.edu.
 *This workshop is contingent on enrollment, so please don't hesitate to request a spot!*
 
 
-![flyer](images/Nextflow_workshop.pdf)
+![flyer](images/nextflow_workshop.png)
